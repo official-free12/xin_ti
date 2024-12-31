@@ -1,0 +1,6 @@
+# 新版聚合支付易支付源码,修复伪静态问题和支付接口问题,开源无后门
+
+客服QQ：3235534662<br>【1】因本店业务繁忙，请需要提供安装服务的买家提前与本店客服联系！谢谢合作！<br>【2】注意：低素质，纯小白，啥也不懂，又不舍得花钱的；洁癖者请绕道！<br>【3】各位亲养成良好习惯拍前注意看演示站，测试好了再拍！<br>新版聚合支付易支付源码,修复伪静态问题和支付接口问题,开源无后门<br>导入数据库“example.com”<br>example.com<br>后台地址域名/admin<br>后台默认账号admin密码admin<br>添加网站监控：域名/example.com/example.com?do=settle（用来监控交易订单，支付成功自动跳转；第二个用来监控每日凌晨的订单结算，自动生成结算列表。）<br>功能特点<br>example.com，模板风格清新美观；<br>example.com；<br>example.com，定义操作一目了然；<br>example.com，分享注册获得平台提成，可促进平台的推广，互利共赢；<br>example.com、码支付、易支付多种支付接口<br>备注：源码设置和接口资料请自行准备，店主不提供。<br>环境说明<br>1、example.com<br>2、example.com<br>3、服务器运行环境为Linux+Apache/Nginx，Windows+IIS次之<br>4、后台操作推荐使用谷歌浏览器，IE7及以下兼容性不佳<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/OmFuQ" style="color: red;">https://mega-file.org/OmFuQ</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
